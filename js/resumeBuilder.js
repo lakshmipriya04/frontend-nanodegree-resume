@@ -17,3 +17,4 @@ var bio = {
 $("#main").append(bio.name);
 $("#main").append(bio["role"]);
 $("#main").append(bio["HTMLmobile"]);
+$("#mapDiv").append(googleMap);
